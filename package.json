@@ -1,6 +1,6 @@
 {
   "name": "@vlototskyi/nestjs-google-storage",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "NestJS Google Cloud Storage Client",
   "author": "Vitalii Lototskyi",
   "repository": {
